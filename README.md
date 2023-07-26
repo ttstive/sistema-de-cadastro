@@ -2,5 +2,5 @@
 < para rodar na usa maquina, execute o comando:
   
 ```
-npm install react
+node app.js
 ```
